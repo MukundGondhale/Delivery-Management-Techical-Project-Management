@@ -1,20 +1,8 @@
 # Delivery-Management-Techical-Project-Management
 IT-Delivery-Program-Management-Portfolio
-You said:
-Please create reademe.md in github for Delivery/Technical Project Management - Define, manage project scope, goals, timelines, budgets, risks, resources, deliverables. Collaboration with global stakeholders, cross-functional teams, using (JIRA, Confluence, Smartsheet, MS Project, PMP, Prince2, Primavera P6, Procore, Trello, Wrike, Asana, Monday.com, ClickUp), Agile Methodologies (Scrum, Kanban)
 
-ChatGPT said:
-
-Mukund, below is a portfolio-ready GitHub README.md tailored to your 27+ years of IT Leadership & Delivery experience, positioned at IT Director / IT Head / IT Infrastructure & Program Management level.
-
-You can directly copy this into your GitHub repository as README.md.
 Delivery & Technical Project Management
 Overview
-
-Senior IT Leader with 27+ years of experience in Delivery Management, Technical Program Management, and Enterprise Project Governance across Infrastructure, Cloud, ERP, Data Centers, Cybersecurity, and Digital Transformation initiatives.
-
-Proven track record of successfully delivering complex, multi-country, cross-functional projects within scope, timeline, budget, and quality parameters.
-Core Project Management Capabilities
 Project Governance & Planning
 
     Define and manage Project Scope, Objectives, and Success Criteria
